@@ -10,7 +10,7 @@ Legível: Sua sintaxe clara e concisa facilita o aprendizado e a escrita de cód
 
 Comunidade Ativa: Possui uma vasta comunidade e um ecossistema de bibliotecas e ferramentas robusto.
 
-#Conceitos Chave Abordados (Até Agora)
+# Conceitos Chave Abordados (Até Agora)
 Aqui estão os tópicos que estou explorando e revisando:
 
 1. Fundamentos da Linguagem
