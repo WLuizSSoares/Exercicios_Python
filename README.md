@@ -1,7 +1,7 @@
 # Meus Estudos de Python 🐍
 Bem-vindo(a) ao meu espaço de estudos em Python! Este repositório é um diário de bordo do meu aprendizado nesta linguagem de programação incrível. Aqui, você encontrará exemplos de código, exercícios resolvidos e anotações sobre os principais conceitos.
 
-#Por Que Python?
+# Por Que Python?
 Escolhi Python por ser uma linguagem:
 
 Versátil: Usada em desenvolvimento web, análise de dados, inteligência artificial, automação e muito mais.
